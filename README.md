@@ -7,6 +7,8 @@ It can be used as an template for starting a new project on Clojure or for learn
 
 Merge requests to this project are welcome!
 
+You can start by reading the [tutorial](doc/index.md).
+
 ## Index
 
 * [Prerequisites](#prerequisites)
